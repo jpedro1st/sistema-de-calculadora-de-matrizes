@@ -85,6 +85,3 @@ Resultado:
   matrizes singulares.
 - Os cálculos utilizam o tipo double.
 
-## Autor
-
-Projeto acadêmico desenvolvido em linguagem C.
