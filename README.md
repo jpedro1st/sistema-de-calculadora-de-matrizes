@@ -31,16 +31,6 @@ decisão e armazenamento de dados.
 - Biblioteca stdlib.h.
 - Biblioteca math.h.
 
-## Compilação
-
-É necessário possuir um compilador GCC instalado.
-
-No terminal, acesse a pasta do projeto e execute:
-
-```bash
-gcc main.c -o calculadora -lm
-```
-
 ## Execução
 
 No Linux:
