@@ -30,21 +30,6 @@ decisão e armazenamento de dados.
 - Biblioteca stdio.h.
 - Biblioteca stdlib.h.
 - Biblioteca math.h.
-
-## Execução
-
-No Linux:
-
-```bash
-./calculadora
-```
-
-No Windows:
-
-```bash
-calculadora.exe
-```
-
 ## Funções implementadas
 
 | Função | Responsabilidade |
