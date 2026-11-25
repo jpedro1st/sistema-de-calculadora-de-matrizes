@@ -1,0 +1,21 @@
+
+# Arquivos executaveis
+calculadora
+calculadora.exe
+*.exe
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Arquivos temporarios
+*.tmp
+*.log
+
+# Arquivos de configuracao de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
